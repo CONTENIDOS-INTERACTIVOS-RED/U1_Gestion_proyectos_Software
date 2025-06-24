@@ -174,7 +174,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Aplicación práctica de PMBOK en la gestión de proyectos ágiles
             p.mb-4(data-aos="fade-right") En el PDF Aplicación práctica de PMBOK en la gestión de proyectos ágiles, se presentan ejemplos claros y ejercicios prácticos, que ilustran cómo integrar los grupos de procesos y áreas de conocimiento del PMBOK dentro de un entorno de trabajo iterativo, potenciando la planificación, ejecución y entrega de proyectos de #[i software] con mayor eficiencia y enfoque colaborativo.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
