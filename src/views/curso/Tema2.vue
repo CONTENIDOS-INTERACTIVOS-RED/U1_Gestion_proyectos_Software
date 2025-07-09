@@ -190,20 +190,19 @@
         .row.px-5
           .col-lg-8.mb-3.mb-lg-0.j1 
             p(data-aos="fade-down") Según Gómez Ruedas (2014), algunas estrategias para el manejo de conflictos y la toma de decisiones, incluyen:
-            p(data-aos="fade-down") Según Maigua (2017), algunas de las responsabilidades claves del líder técnico, incluyen:
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Verificar que se han completado todos los entregables y que cumplen con los criterios de aceptación.
+                p.mb-0 Fomentar una comunicación abierta y transparente entre los interesados para identificar y abordar los conflictos temprano.
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Obtener la aceptación formal del cliente y transferir la propiedad del producto o servicio.
+                p.mb-0 Utilizar técnicas de negociación y búsqueda de consenso para encontrar soluciones mutuamente beneficiosas.
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Realizar una evaluación post-proyecto para identificar éxitos, desafíos y oportunidades de mejora.
+                p.mb-0 Tomar decisiones basadas en datos y criterios objetivos, considerando los impactos en el alcance, tiempo, costo y calidad del proyecto.
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Documentar las lecciones aprendidas y archivar la información del proyecto, para una referencia futura.
+                p.mb-0 Escalar los conflictos y decisiones a los niveles apropiados de autoridad cuando sea necesario.
           .col-lg-4.p-0
             figure
               img.img-a.img-t(src="@/assets/curso/temas/43.png", data-aos="zoom-in")                           

@@ -123,7 +123,8 @@
 
     #t_3_4.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.4] Comparación con metodologías ágiles y tradicionales
-    p(data-aos="fade-down") El PMBOK organiza sus 49 procesos en cinco categorías: Inicio, Planificación, Ejecución, Monitoreo y Control, y Cierre (Sarmiento Rojas et al., 2020). Veamos cómo algunos de estos procesos claves, podrían aplicarse en un proyecto de #[i software]:
+    
+    p(data-aos="fade-down") El PMBOK proporciona un marco general aplicable a una amplia variedad de proyectos, mientras que las metodologías ágiles y tradicionales, ofrecen enfoques más específicos para la gestión de proyectos de #[i software] (Gómez Ruedas, 2014).
 
     TabsC(data-aos="fade-right").color-primario.mb-5
       .bg-color-10.border.px-4.p-md-5.py-3(titulo="Metodologías tradicionales" :icon="require('@/assets/curso/temas/icon.svg')")
@@ -161,8 +162,8 @@
           img.img-a.img-t(src="@/assets/curso/temas/54.png", data-aos="zoom-in")
 
 
-    #t_3_4.titulo-segundo(data-aos="flip-up")
-      h2 #[span 3.4] Aplicación práctica de PMBOK en la gestión de proyectos ágiles
+    #t_3_5.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.5] Aplicación práctica de PMBOK en la gestión de proyectos ágiles
     p(data-aos="fade-down") La aplicación práctica del estándar PMBOK en proyectos ágiles permite combinar lo mejor de dos enfoques: la estructura metodológica de la gestión tradicional con la flexibilidad y adaptabilidad de las metodologías ágiles.
 
     .bg-full-width.bg-color-10.mb-5
@@ -382,7 +383,8 @@ export default {
             opciones: [
               {
                 id: 'a',
-                texto: '¿Qué se realiza en la fase de inicio de un proyecto?',
+                texto:
+                  'Se define el alcance, objetivos y se aprueba el proyecto.',
                 esCorrecta: true,
               },
               {

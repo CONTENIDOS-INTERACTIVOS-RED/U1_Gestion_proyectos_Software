@@ -165,16 +165,16 @@
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Verificar que se han completado todos los entregables y que cumplen con los criterios de aceptación.
+                p.mb-0 Definir claramente el alcance del proyecto y crear la Estructura de Desglose del Trabajo (EDT), para dividirlo en paquetes manejables.
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Obtener la aceptación formal del cliente y transferir la propiedad del producto o servicio.
+                p.mb-0 Secuenciar las actividades, estimar su duración y desarrollar el cronograma del proyecto.
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Realizar una evaluación post-proyecto para identificar éxitos, desafíos y oportunidades de mejora.
+                p.mb-0 Monitorear y controlar el avance del proyecto, con respecto a la línea base del alcance y el cronograma.
               li.mb-3.d-flex
                 i.far.fa-arrow-alt-circle-right.color-1
-                p.mb-0 Documentar las lecciones aprendidas y archivar la información del proyecto, para una referencia futura.
+                p.mb-0 Gestionar los cambios del alcance, a través de un proceso formal de control de cambios.
           .col-lg-4.p-0
             figure
               img.img-a.img-t(src="@/assets/curso/temas/18.png", data-aos="zoom-in")              

@@ -165,11 +165,6 @@ export default {
     },
     {
       referencia:
-        'Gómez Ruedas, J. (2014). <i>Dirección y gestión de proyectos de tecnologías de la información en la empresa</i>. FC Editorial. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/114078?page=1',
-    },
-    {
-      referencia:
         'López, D., Rodríguez, J. R. & González, J. J. (2019). <i>Gestión de programas de proyectos informáticos (y no informáticos)</i>. Editorial UOC. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/113334?page=1',
     },
@@ -177,21 +172,6 @@ export default {
       referencia:
         'Maigua, G. (2017). <i>Buenas prácticas en la dirección y gestión de proyectos informáticos</i>. D - Editorial de la Universidad Tecnológica Nacional. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/76993?page=1',
-    },
-    {
-      referencia:
-        'De Zunzunegui, A. (2023). <i>Gestión de proyectos en AGILE: cómo utilizar las metodologías ágiles para mejorar tu capacidad de respuesta y lanzar proyectos de éxito</i>. LID Editorial España. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/270594?page=1',
-    },
-    {
-      referencia:
-        'Gómez Ruedas, J. (2014). <i>Dirección y gestión de proyectos de tecnologías de la información en la empresa</i>. FC Editorial. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/114078?page=1',
-    },
-    {
-      referencia:
-        'Sarmiento Rojas, J. A., Correa Candamil, C. H. & Jiménez Roa, D. E. (2020). <i>Gestión de proyectos aplicada al PMBOK 6ED</i>. Editorial UPTC. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/193943?page=1',
     },
   ],
   glosario: [
