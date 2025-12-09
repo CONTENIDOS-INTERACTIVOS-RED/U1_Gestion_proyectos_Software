@@ -217,11 +217,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://blog.hubspot.es/sales/que-es-pmbokHubSpot Blog" target="_blank" rel="noopener noreferrer") HubSpot. (s.f.). PMBOK: qué es, para qué sirve, fases y herramientas. 
+              a(href="https://blog.hubspot.es/sales/que-es-pmbok" target="_blank" rel="noopener noreferrer") HubSpot. (s.f.). PMBOK: qué es, para qué sirve, fases y herramientas. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              a(href="hhttps://liderazgo.space/pmbok" target="_blank" rel="noopener noreferrer") Espacio de Liderazgo. (s.f.). Guía completa sobre el PMBOK para gestionar proyectos. 
+              a(href="https://liderazgo.space/pmbok/" target="_blank" rel="noopener noreferrer") Espacio de Liderazgo. (s.f.). Guía completa sobre el PMBOK para gestionar proyectos. 
 
 
             p.d-flex.my-4
@@ -316,7 +316,7 @@ export default {
           },
           {
             id: 3,
-            texto: 'L¿Cuál es una función clave del gerente de proyectos?',
+            texto: '¿Cuál es una función clave del gerente de proyectos?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
